@@ -1,0 +1,101 @@
+#one{
+    background-image: url(./images/fruits.png);
+    background-size: cover;
+}
+.center-box-one{
+    background: rgba(255, 255, 255, 0.2); 
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(12px);
+    border-radius: 50px;
+    border: 1px solid rgba(128, 128, 128, 0.199); 
+    box-shadow: 0 4px 30px rgba(1, 1, 1, 0.5); 
+    height: 800px;
+    width: 700px;
+    margin-left: 640px;
+    margin-top: 100px;
+    text-align: center;
+    font-family: 'Pinyon Script', cursive;
+    font-size: 0.5cm;
+}
+
+#two{
+    background-image: url(./images/apple.png);
+    background-size: cover;
+}
+.center-box-two{
+    background: rgba(255, 255, 255, 0.2); 
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(12px);
+    border-radius: 50px;
+    border: 1px solid rgba(128, 128, 128, 0.199); 
+    box-shadow: 0 4px 30px rgba(1, 1, 1, 0.5); 
+    height: 400px;
+    width: 700px;
+    margin-left: 640px;
+    margin-top: 280px;
+    text-align: center;
+    font-family: 'Pinyon Script', cursive;
+    font-size: 0.5cm;
+}
+#three{
+    background-image: url(./images/mango2.png);
+    background-size: cover;
+}
+.center-box-three{
+    background: rgba(255, 255, 255, 0.2); 
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(12px);
+    border-radius: 50px;
+    border: 1px solid rgba(128, 128, 128, 0.199); 
+    box-shadow: 0 4px 30px rgba(1, 1, 1, 0.5); 
+    height: 400px;
+    width: 700px;
+    margin-left: 640px;
+    margin-top: 280px;
+    text-align: center;
+    font-family: 'Pinyon Script', cursive;
+    font-size: 0.5cm;
+}
+
+#four{
+    background-image: url(./images/banana.png);
+    background-size: cover;
+}
+.center-box-four{
+    background: rgba(255, 255, 255, 0.2); 
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(12px);
+    border-radius: 50px;
+    border: 1px solid rgba(128, 128, 128, 0.199); 
+    box-shadow: 0 4px 30px rgba(1, 1, 1, 0.5); 
+    height: 400px;
+    width: 700px;
+    margin-left: 640px;
+    margin-top: 280px;
+    text-align: center;
+    font-family: 'Pinyon Script', cursive;
+    font-size: 0.5cm;
+}
+
+#five{
+    background-image: url(./images/orange.png);
+    background-size: cover;
+}
+.center-box-five{
+    background: rgba(255, 255, 255, 0.2); 
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(12px);
+    border-radius: 50px;
+    border: 1px solid rgba(128, 128, 128, 0.199); 
+    box-shadow: 0 4px 30px rgba(1, 1, 1, 0.5); 
+    height: 400px;
+    width: 700px;
+    margin-left: 640px;
+    margin-top: 280px;
+    text-align: center;
+    font-family: 'Pinyon Script', cursive;
+    font-size: 0.5cm;
+}
+
+
+
